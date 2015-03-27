@@ -21,7 +21,9 @@ This plugin sets Wordpress to automatically download and install plugin updates.
 
 == Frequently Asked Questions ==
 
-This plugin should activate the automatic downloading on plugin updates within Wordpress
+This plugin should activate the automatic downloading on plugin updates within Wordpress.
+
+You should normally see the automatic update routine execute within 12 hours of receiving the manual upgrade notice.
 
 == Upgrade Notice ==
 
