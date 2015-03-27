@@ -4,7 +4,7 @@ Donate link: http://www.geenyous.com/
 Tags: plugin, update, auto, automatic, automatically
 Requires at least: 3.7
 Tested up to: 4.1.1
-Stable tag: 0.1
+Stable tag: 0.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,6 +25,8 @@ This plugin should activate the automatic downloading on plugin updates within W
 
 == Upgrade Notice ==
 
+0.1.1 - Security update
+
 0.1 - First version
 
 == Screenshots ==
@@ -32,6 +34,10 @@ This plugin should activate the automatic downloading on plugin updates within W
 None
 
 == Changelog ==
+
+= 0.1.1 =
+
+Security update
 
 = 0.1 =
 This is the first version of this plugin.
