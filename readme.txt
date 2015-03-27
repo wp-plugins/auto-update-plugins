@@ -1,8 +1,8 @@
 === Auto Update Plugins ===
 Contributors: Geenyous
 Donate link: http://www.geenyous.com/
-Tags: plugin, update, auto, automatic
-Requires at least: 3.0.1
+Tags: plugin, update, auto, automatic, automatically
+Requires at least: 3.7
 Tested up to: 4.1.1
 Stable tag: 0.1
 License: GPLv2 or later
@@ -16,15 +16,16 @@ This plugin sets Wordpress to automatically download and install plugin updates.
 
 == Installation ==
 
-1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload the `auto-update-plugins` folder to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
 
-None
+This plugin should activate the automatic downloading on plugin updates within Wordpress
 
 == Upgrade Notice ==
 
-None
+0.1 - First version
 
 == Screenshots ==
 
