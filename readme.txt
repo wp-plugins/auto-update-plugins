@@ -27,6 +27,8 @@ You should normally see the automatic update routine execute within 12 hours of 
 
 == Upgrade Notice ==
 
+0.1.2 - Test Revision
+
 0.1.1 - Security update
 
 0.1 - First version
