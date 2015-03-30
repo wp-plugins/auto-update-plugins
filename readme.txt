@@ -41,7 +41,7 @@ None
 
 = 0.1.2 =
 
-Converted plugin to OOP
+Converted to OOP
 
 = 0.1.1 =
 
