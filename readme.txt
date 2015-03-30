@@ -4,7 +4,7 @@ Donate link: http://www.geenyous.com/
 Tags: plugin, update, auto, automatic, automatically
 Requires at least: 3.7
 Tested up to: 4.1.1
-Stable tag: 0.1.1
+Stable tag: 0.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,8 @@ You should normally see the automatic update routine execute within 12 hours of 
 
 == Upgrade Notice ==
 
+0.1.2 - Converted to OOP
+
 0.1.1 - Security update
 
 0.1 - First version
@@ -36,6 +38,10 @@ You should normally see the automatic update routine execute within 12 hours of 
 None
 
 == Changelog ==
+
+= 0.1.2 =
+
+Converted to OOP
 
 = 0.1.1 =
 
