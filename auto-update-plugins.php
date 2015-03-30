@@ -56,13 +56,13 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 class Auto_Update_Plugins {
- 
-    public function __construct() {
- 
-			add_filter( 'auto_update_plugin', '__return_true' ); 
-			
-    }
- 
+
+	public function __construct() {
+	
+		add_filter( 'auto_update_plugin', '__return_true' ); 
+	
+	}
+
 }
 
 $plugin_Auto_Update_Plugins = new Auto_Update_Plugins();
