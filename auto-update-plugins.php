@@ -50,6 +50,19 @@
 
 */
 
-defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
+// If this file is called directly, abort.
+if ( ! defined( 'WPINC' ) ) {
+	die;
+}
 
-add_filter( 'auto_update_plugin', '__return_true' );
+class Auto_Update_Plugins {
+ 
+    public function __construct() {
+ 
+			add_filter( 'auto_update_plugin', '__return_true' ); 
+			
+    }
+ 
+}
+
+$plugin_Auto_Update_Plugins = new Auto_Update_Plugins();
