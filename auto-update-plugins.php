@@ -8,7 +8,7 @@
 
  * Description: This plugin turns on auto update for plugins.
 
- * Version: 0.1.2
+ * Version: 0.1.3
 
  * Author: Geenyous Limited
 
