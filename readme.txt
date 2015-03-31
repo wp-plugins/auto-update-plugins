@@ -1,6 +1,6 @@
 === Auto Update Plugins ===
 Contributors: Geenyous
-Donate link: http://www.geenyous.com/
+Donate link: http://www.geenyous.com/payment/
 Tags: plugin, update, auto, automatic, automatically
 Requires at least: 3.7
 Tested up to: 4.1.1
